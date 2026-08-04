@@ -1,0 +1,6 @@
+{
+  "name": "BaizPay",
+  "description": "Premium International Reward Platform & Digital Wallet by Baizid Ahmed",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
